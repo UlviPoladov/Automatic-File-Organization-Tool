@@ -63,40 +63,15 @@ Example 🖼️
 
 ### Before:
 
+Copy
 
-C:\\Users\\YourUsername\\Downloads
-├── example.jpg
-
-├── document.pdf
-
-├── song.mp3
-
-├── video.mp4
-
-└── archive.zip
+`   C:\Users\YourUsername\Downloads  ├── example.jpg  ├── document.pdf  ├── song.mp3  ├── video.mp4  └── archive.zip   `
 
 ### After Running the Tool:
 
+Copy
 
-C:\\Users\\YourUsername\\Downloads
-
-├── Images
-
-│   └── example.jpg
-
-├── Documents
-│   └── document.pdf
-
-├── Music
-│   └── song.mp3
-
-├── Videos
-│   └── video.mp4
-
-├── Archives
-│   └── archive.zip
-
-└── Other
+`   C:\Users\YourUsername\Downloads  ├── Images  │   └── example.jpg  ├── Documents  │   └── document.pdf  ├── Music  │   └── song.mp3  ├── Videos  │   └── video.mp4  ├── Archives  │   └── archive.zip  └── Other   `
 
 
 Future Improvements 🚀
