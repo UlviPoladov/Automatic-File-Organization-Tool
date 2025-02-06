@@ -99,7 +99,7 @@ Contributions are welcome! If you have any ideas, suggestions, or bug reports, f
 About Me 👋
 -----------
 
-Hi! I'm Ulvi, a recent graduate and aspiring software developer. This project is part of my journey to learn and showcase my skills in C# and .NET. Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/ülvi-poladov-51b9042b4/)) or check out my other projects on [GitHub](https://github.com/UlviPoladov).
+Hi! I'm Ulvi, a recent graduate and aspiring software developer. This project is part of my journey to learn and showcase my skills in C# and .NET. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ülvi-poladov-51b9042b4) or check out my other projects on [GitHub](https://github.com/UlviPoladov).
 
 Show Your Support 🌟
 --------------------
